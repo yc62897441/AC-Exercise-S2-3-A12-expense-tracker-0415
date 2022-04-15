@@ -1,11 +1,11 @@
 # Project AC-Exercise-S2-3-A12-expense-tracker
 Alpha camp Semester2-3 A12 expense-tracker(廣志の秘密手帳)
 
-![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A12-expense-tracker/blob/master/images/sample001.jpg?raw=true)
+![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A12-expense-tracker-0415/blob/master/images/sample001.jpg?raw=true)
 
-![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A12-expense-tracker/blob/master/images/sample002.jpg?raw=true)
+![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A12-expense-tracker-0415/blob/master/images/sample002.jpg?raw=true)
 
-![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A12-expense-tracker/blob/master/images/sample003.jpg?raw=true)
+![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A12-expense-tracker-0415/blob/master/images/sample003.jpg?raw=true)
 
 ## Environment & Prerequisites
 
@@ -24,12 +24,12 @@ mongoose: ^6.2.10
 ## Installing and Execution
 1. Clone projet to your localhost
 ```
-git clone https://github.com/yc62897441/AC-Exercise-S2-3-A12-expense-tracker.git
+git clone https://github.com/yc62897441/AC-Exercise-S2-3-A12-expense-tracker-0415.git
 ```
 
-2. change directory to project file "AC-Exercise-S2-3-A12-expense-tracker"
+2. change directory to project file
 ```
-cd "AC-Exercise-S2-3-A12-expense-tracker"
+cd "AC-Exercise-S2-3-A12-expense-tracker-0415"
 ```
 
 3. install npm module
